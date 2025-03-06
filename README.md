@@ -54,4 +54,5 @@ Vai a merda!
 - [Quedas]()
 - [Telêmaco]()
 - [União]()
+- [Todos?](https://ifpr.edu.br/trabalhe-no-ifpr/processo-seletivo-simplificado/professor-substituto/professor-substituto-2025/)
 
