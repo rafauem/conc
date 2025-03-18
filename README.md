@@ -3,8 +3,10 @@ Vai a merda!
 
 # Menu
 [Paraná](https://github.com/rafauem/conc/#UEL)
-[Santa Catarina]()
-[São Paulo]()
+
+[Santa Catarina](https://github.com/rafauem/conc/#UFSC)
+
+[São Paulo](https://github.com/rafauem/conc/#UNESP)
 
 ## UEL
 - [COPS](https://www.cops.uel.br/)
@@ -59,4 +61,24 @@ Vai a merda!
 - [Telêmaco]()
 - [União]()
 - [Todos?](https://ifpr.edu.br/trabalhe-no-ifpr/processo-seletivo-simplificado/professor-substituto/professor-substituto-2025/)
+
+# Santa Catarina
+
+## UFSC
+- [PSS](https://concursos.ufsc.br/)
+- 007/2025/DDP
+
+## UDESC
+- [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
+- 01/2025
+
+## IFSC
+- [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
+- 01/2025
+
+# São Paulo
+
+## UNESP
+- [PSS](https://inscricoes.unesp.br/concurso/inscricao-aberta)
+- Câmpus de Araçatuba - FMVA
 
