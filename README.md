@@ -14,7 +14,10 @@ Vai a merda!
 
 ## UEM
 - [Efetivo](https://prh.uem.br/res/concurso-publico-docente-novo)
+  
 - [PSS](https://prh.uem.br/res/em-andamento-docentes)
+
+    - Edital nº 050/2025-PRH (Medicina )
 
 ## UNIOESTE
 - [conc](https://concursos.unioeste.br/)
@@ -67,14 +70,17 @@ Vai a merda!
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
 - 007/2025/DDP
+- 009/2025/DDP
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
 - 01/2025
+- 02/2025
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
 - 01/2025
+- 10/2025
 
 # São Paulo
 
