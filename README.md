@@ -21,7 +21,7 @@ Vai a merda!
 
 ## UNIOESTE
 - [conc](https://concursos.unioeste.br/)
-- [037/2025](https://concursos.unioeste.br/concursos/publicacoes/UNIVERSIDADE+ESTADUAL+DO+OESTE+DO+PARAN%C3%81+-++UNIOESTE/108)
+  - PSS2 2025 AEE 
 
 ## UNESPAR
 - [PSS](https://progesp.unespar.edu.br/menu-principal/concursos-publicos)
@@ -32,9 +32,11 @@ Vai a merda!
 ## UFPR
 - [Efetivo](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/concursos.html)
 - [PSS](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/testes_seletivos.html)
+  - 101/2025
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais/concursos)
+  - 002/2025
 
 ## IFPR
 - [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/)
