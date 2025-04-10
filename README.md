@@ -35,8 +35,8 @@ Vai a merda!
   - 101/2025
 
 ## UTFPR
-- [conc](https://www.utfpr.edu.br/editais/concursos)
-  - 002/2025
+- [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
+  - 001/2025-PS-AP
 
 ## IFPR
 - [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/)
