@@ -26,10 +26,11 @@ Vai a merda!
 
 ## UNESPAR
 - [PSS](https://progesp.unespar.edu.br/menu-principal/concursos-publicos)
-  - Edital 48/2025 (Ñ)
+  - 2024
 
 ## UNICENTRO
 - [conc](https://www2.unicentro.br/concursos/)
+  - Edital 48/2025 (Ñ)
 
 ## UFPR
 - [Efetivo](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/concursos.html)
@@ -39,7 +40,9 @@ Vai a merda!
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
-  - 001/2025-PS-AP
+  - Edital 002/2025-PS-PB
+  - Edital 001/2025-PS-AP
+    - Consulta Ensalamento 06/05/2025
 
 ## IFPR
 - [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/)
@@ -70,13 +73,20 @@ Vai a merda!
 - [União]()
 - [Todos?](https://ifpr.edu.br/trabalhe-no-ifpr/processo-seletivo-simplificado/professor-substituto/professor-substituto-2025/)
 
+# SESC
+-[Selecione a cidade](https://www.sescpr.com.br/trabalhe-conosco/)
+
+# SESI
+- [Geral](https://app.jobconvo.com/pt-br/careers/sistema-fiep/35ad6a0f-51a9-4b5f-b1fe-154124819dfd/)
+- [Umuarama](https://app.jobconvo.com/pt-br/careers/sistema-fiep/35ad6a0f-51a9-4b5f-b1fe-154124819dfd/?title=&state=PR&city=UMUARAMA&department=)
+
 # Santa Catarina
 
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
-  - 011/2025/DDP (Ñ)
+  - 015/2025/DDP (Ñ)
+  - 012/2025/DDP (Ñ)
   - 009/2025/DDP (Ñ)
-  - 007/2025/DDP (Ñ)
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
