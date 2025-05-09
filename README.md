@@ -104,3 +104,6 @@ Vai a merda!
 - [PSS](https://inscricoes.unesp.br/concurso/inscricao-aberta)
 - Câmpus de Araçatuba - FMVA
 
+# UFSM
+Quantos malucos se inscreveram [olha lá pelo dia 26/06/25](https://www.ufsm.br/pro-reitorias/progep/editais/120-2025)
+
