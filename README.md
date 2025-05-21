@@ -21,8 +21,7 @@ Vai a merda!
 
 ## UNIOESTE
 - [conc](https://concursos.unioeste.br/)
-  - PSS1-2025-HUOP (Ñ)
-  - PSS2 2025 AEE (Ñ)
+
 
 ## UNESPAR
 - [PSS](https://progesp.unespar.edu.br/menu-principal/concursos-publicos)
@@ -35,14 +34,13 @@ Vai a merda!
 ## UFPR
 - [Efetivo](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/concursos.html)
 - [PSS](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/testes_seletivos.html)
-  - 110/25 (Ñ)
-  - 101/2025 (Ñ)
+  - 155/25 (Ñ)
+ 
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
   - Edital 002/2025-PS-PB
   - Edital 001/2025-PS-AP
-    - Consulta Ensalamento 06/05/2025
 
 ## IFPR
 - [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/)
@@ -84,9 +82,7 @@ Vai a merda!
 
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
-  - 015/2025/DDP (Ñ)
-  - 012/2025/DDP (Ñ)
-  - 009/2025/DDP (Ñ)
+  - 021/2025/DDP (Ñ)
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
@@ -95,8 +91,8 @@ Vai a merda!
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
-  - 10/2025 (Ñ)
-  - 01/2025 (Ñ)
+  - Edital 15/2025 (N FPD!)
+  - Edital 14/2025 (PCD FPD!)
 
 # São Paulo
 
