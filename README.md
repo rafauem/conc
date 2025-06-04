@@ -34,11 +34,13 @@ Vai a merda!
 ## UFPR
 - [Efetivo](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/concursos.html)
 - [PSS](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/testes_seletivos.html)
+  - [177/25 - Jandaia](https://jandaiadosul.ufpr.br/concursos/substfisica/)
   - 155/25 (Ñ)
  
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
+- [14/05 Resultado](https://www.utfpr.edu.br/concursos/substitutos/apucarana/edital-no-001-2025-ps-ap-professor-do-magisterio-federal-substituto)
   - Edital 002/2025-PS-PB
   - Edital 001/2025-PS-AP
 
