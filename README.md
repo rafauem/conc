@@ -8,16 +8,16 @@ Vai a merda!
 
 [São Paulo](https://github.com/rafauem/conc/#UNESP)
 
-## UEL
-- [COPS](https://www.cops.uel.br/)
-- [025/2025](https://www.cops.uel.br/v2/Selecao/DetalharSelecao/Selecao/367) 
-
 ## UEM
 - [Efetivo](https://prh.uem.br/res/concurso-publico-docente-novo)
   
 - [PSS](https://prh.uem.br/res/em-andamento-docentes)
 
-    - Edital nº 050/2025-PRH (Medicina )
+    - [150/2025](https://prh.uem.br/res/em-andamento-docentes/edital-no-150-2025-prh-teste-seletivo-para-contratacao-de-professor-a-temporario-a)
+  
+## UEL
+- [COPS](https://www.cops.uel.br/)
+- 096/2025 (eff)
 
 ## UNIOESTE
 - [conc](https://concursos.unioeste.br/)
@@ -25,7 +25,7 @@ Vai a merda!
 
 ## UNESPAR
 - [PSS](https://progesp.unespar.edu.br/menu-principal/concursos-publicos)
-  - 2024
+  - 020/2025 (Agente Universitário)
 
 ## UNICENTRO
 - [conc](https://www2.unicentro.br/concursos/)
@@ -34,18 +34,16 @@ Vai a merda!
 ## UFPR
 - [Efetivo](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/concursos.html)
 - [PSS](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/testes_seletivos.html)
-  - [177/25 - Jandaia](https://jandaiadosul.ufpr.br/concursos/substfisica/)
-  - 155/25 (Ñ)
+  - [177/25 - Jandaia - Patifaria!](https://jandaiadosul.ufpr.br/concursos/substfisica/)
  
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
-- [14/05 Resultado](https://www.utfpr.edu.br/concursos/substitutos/apucarana/edital-no-001-2025-ps-ap-professor-do-magisterio-federal-substituto)
-  - Edital 002/2025-PS-PB
-  - Edital 001/2025-PS-AP
+  - [002/2025-PS-CT](https://www.utfpr.edu.br/concursos/substitutos/curitiba/edital-002-2025-ps-ct)
+  - [14/05 Resultado](https://www.utfpr.edu.br/concursos/substitutos/apucarana/edital-no-001-2025-ps-ap-professor-do-magisterio-federal-substituto)
 
 ## IFPR
-- [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/)
+- [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/pss-2025/)
 - [Cascavel](https://ifpr.edu.br/cascavel/pss-4/)
 - [Astorga](https://ifpr.edu.br/astorga/menu-principal/concursos-e-processos-seletivos/)
 - [Foz](https://ifpr.edu.br/foz-do-iguacu/pss-professor-substituto/)
@@ -57,20 +55,6 @@ Vai a merda!
 - [Colombo](https://ifpr.edu.br/colombo/editais-e-portarias/)
 - [Coronel V](https://ifpr.edu.br/coronel-vivida/documentos-institucionais/editais/)
 - [Goioerê](https://ifpr.edu.br/goioere/docinstitucional/processo-seletivo-pss-professor-substituto/)
-- [Irati](https://ifpr.edu.br/irati/documentos-institucionais/editais/)
-- [Ivaiporã](https://ifpr.edu.br/trabalhe-no-ifpr/processo-seletivo-simplificado/professor-substituto/)
-    - [eff](https://ifpr.edu.br/trabalhe-no-ifpr/concursos-publicos/concursos-publicos-docentes/)
-- [Jacarezinho]()
-- [Jaguariaíva]()
-- [Londrina]()
-- [Palmas]()
-- [Paranaguá]()
-- [Paranavaí]()
-- [Pinhais]()
-- [Pitanga]()
-- [Quedas]()
-- [Telêmaco]()
-- [União]()
 - [Todos?](https://ifpr.edu.br/trabalhe-no-ifpr/processo-seletivo-simplificado/professor-substituto/professor-substituto-2025/)
 
 # SESC
@@ -88,8 +72,7 @@ Vai a merda!
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
-  - 02/2025 (Ñ)
-  - 01/2025 (Ñ)
+  - [03/2025](https://www.udesc.br/processoseletivo/032025)
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
