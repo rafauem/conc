@@ -29,6 +29,7 @@ Vai a merda!
 
 ## UNICENTRO
 - [conc](https://www2.unicentro.br/concursos/)
+  - Edital 91/2025 (Foda!) 
   - Edital 48/2025 (Ñ)
 
 ## UFPR
