@@ -6,7 +6,6 @@ Vai a merda!
 
 [Santa Catarina](https://github.com/rafauem/conc/#UFSC)
 
-[São Paulo](https://github.com/rafauem/conc/#UNESP)
 
 ## UEM
 - [Efetivo](https://prh.uem.br/res/concurso-publico-docente-novo)
@@ -35,13 +34,10 @@ Vai a merda!
 ## UFPR
 - [Efetivo](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/concursos.html)
 - [PSS](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/testes_seletivos.html)
-  - [177/25 - Jandaia - Patifaria!](https://jandaiadosul.ufpr.br/concursos/substfisica/)
  
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
-  - [002/2025-PS-CT](https://www.utfpr.edu.br/concursos/substitutos/curitiba/edital-002-2025-ps-ct)
-  - [14/05 Resultado](https://www.utfpr.edu.br/concursos/substitutos/apucarana/edital-no-001-2025-ps-ap-professor-do-magisterio-federal-substituto)
 
 ## IFPR
 - [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/pss-2025/)
@@ -69,23 +65,12 @@ Vai a merda!
 
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
-  - 021/2025/DDP (Ñ)
+  - [031/2025/DDP](https://concursos.ufsc.br/2025/06/24/processo-seletivo-para-professor-substituto-edital-no-0312025ddp/)
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
-  - [03/2025](https://www.udesc.br/processoseletivo/032025)
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
   - Edital 15/2025 (N FPD!)
   - Edital 14/2025 (PCD FPD!)
-
-# São Paulo
-
-## UNESP
-- [PSS](https://inscricoes.unesp.br/concurso/inscricao-aberta)
-- Câmpus de Araçatuba - FMVA
-
-# UFSM
-Quantos malucos se inscreveram [olha lá pelo dia 26/06/25](https://www.ufsm.br/pro-reitorias/progep/editais/120-2025)
-
