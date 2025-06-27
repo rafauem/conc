@@ -65,7 +65,7 @@ Vai a merda!
 
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
-  - [031/2025/DDP](https://concursos.ufsc.br/2025/06/24/processo-seletivo-para-professor-substituto-edital-no-0312025ddp/)
+  - [031/2025/DDP](https://contratacaotemporaria.ufsc.br/edital-031-2025/)
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
