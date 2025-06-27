@@ -65,10 +65,11 @@ Vai a merda!
 
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
-  - [031/2025/DDP](https://contratacaotemporaria.ufsc.br/edital-031-2025/)
+  - 031/2025/DDP (Ñ)
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
+  - [03](https://www.udesc.br/processoseletivo/032025)
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
