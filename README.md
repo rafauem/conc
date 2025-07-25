@@ -16,7 +16,7 @@ Vai a merda!
   
 ## UEL
 - [COPS](https://www.cops.uel.br/)
-- 096/2025 (eff)
+
 
 ## UNIOESTE
 - [conc](https://concursos.unioeste.br/)
@@ -38,6 +38,7 @@ Vai a merda!
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
+  - [Pato Branco](https://www.utfpr.edu.br/concursos/substitutos/patobranco/edital-no-003-2025-ps-pb-professor-do-magisterio-superior-substituto)
 
 ## IFPR
 - [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/pss-2025/)
