@@ -6,18 +6,16 @@ Vai a merda!
 
 [Santa Catarina](https://github.com/rafauem/conc/#UFSC)
 
+## UEL
+- [COPS](https://www.cops.uel.br/)
+
+  - [25](https://www.cops.uel.br/v2/Selecao/DetalharSelecao/Selecao/367)
 
 ## UEM
 - [Efetivo](https://prh.uem.br/res/concurso-publico-docente-novo)
   
 - [PSS](https://prh.uem.br/res/em-andamento-docentes)
-
-    - [150/2025](https://prh.uem.br/res/em-andamento-docentes/edital-no-150-2025-prh-teste-seletivo-para-contratacao-de-professor-a-temporario-a)
   
-## UEL
-- [COPS](https://www.cops.uel.br/)
-
-
 ## UNIOESTE
 - [conc](https://concursos.unioeste.br/)
 
@@ -30,6 +28,7 @@ Vai a merda!
 - [conc](https://www2.unicentro.br/concursos/)
   - Edital 91/2025 (Foda!) 
   - Edital 48/2025 (Ñ)
+  - Edita 117/2025 (Ñ)
 
 ## UFPR
 - [Efetivo](https://progepe.ufpr.br/a/concursos/docente/concursos_publicos/concursos.html)
@@ -38,7 +37,6 @@ Vai a merda!
 
 ## UTFPR
 - [conc](https://www.utfpr.edu.br/editais) Clicar um concursos.
-  - [Pato Branco](https://www.utfpr.edu.br/concursos/substitutos/patobranco/edital-no-003-2025-ps-pb-professor-do-magisterio-superior-substituto)
 
 ## IFPR
 - [Umuarama](https://ifpr.edu.br/umuarama/concursos/professor-substituto/pss-2025/)
@@ -66,11 +64,11 @@ Vai a merda!
 
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
-  - 031/2025/DDP (Ñ)
+  - 034/2025/DDP (Ñ)
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
-  - [03](https://www.udesc.br/processoseletivo/032025)
+  - 04
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
