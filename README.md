@@ -22,7 +22,7 @@ Vai a merda!
 
 ## UNESPAR
 - [PSS](https://progesp.unespar.edu.br/menu-principal/concursos-publicos)
-  - 020/2025 (Agente Universitário)
+  - [050/2025](https://progesp.unespar.edu.br/menu-principal/concursos-publicos/concurso-publico/edital-n-050-2025-cpps)
 
 ## UNICENTRO
 - [conc](https://www2.unicentro.br/concursos/)
