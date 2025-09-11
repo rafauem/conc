@@ -68,7 +68,7 @@ Vai a merda!
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
-  - 04
+  - [05](https://www.udesc.br/concursopublico/052025)
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
