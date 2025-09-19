@@ -72,5 +72,4 @@ Vai a merda!
 
 ## IFSC
 - [PSS](https://www.ifsc.edu.br/contratacao-de-professores)
-  - Edital 15/2025 (N FPD!)
-  - Edital 14/2025 (PCD FPD!)
+  - Edital 23/2025 
