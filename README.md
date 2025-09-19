@@ -64,7 +64,7 @@ Vai a merda!
 
 ## UFSC
 - [PSS](https://concursos.ufsc.br/)
-  - 034/2025/DDP (Ñ)
+  - [039/2025/DDP](https://039ddp2025.concursos.ufsc.br/edital/)
 
 ## UDESC
 - [PSS](https://www.udesc.br/concursospublicos/processoseletivos/2025)
