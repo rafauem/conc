@@ -15,6 +15,7 @@ Vai a merda!
 - [Efetivo](https://prh.uem.br/res/concurso-publico-docente-novo)
   
 - [PSS](https://prh.uem.br/res/em-andamento-docentes)
+  - PN PCD FDP ! [285](https://prh.uem.br/res/em-andamento-docentes/edital-n-o-285-2025-prh-teste-seletivo-para-contratacao-de-professor-a-temporario-a)
   
 ## UNIOESTE
 - [conc](https://concursos.unioeste.br/)
